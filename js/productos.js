@@ -1,4 +1,4 @@
-var productos = [
+var productos =[
   {
     "CODIGO": "0102-015",
     "DESCRIPCION": "ALAMBRE GALV CAL 17,5 (BOBINA 20 KG) T1",
@@ -319,7 +319,7 @@ var productos = [
     "DESCRIPCION": "CAJA DE GANCHO 2X1-1/2 CORTO-LIT",
     "EXISTENCIA": 10,
     "CATEGORIA": "Techos y cubiertas",
-    "IMAGEN": ""
+    "IMAGEN": "CAJA-DE-GANCHO-2X1-CORTO-LIT.jpg"
   },
   {
     "CODIGO": "0201-007",
@@ -508,35 +508,35 @@ var productos = [
     "DESCRIPCION": "CODO DE 75MMX90 PVC A/N",
     "EXISTENCIA": 31,
     "CATEGORIA": "Tubería",
-    "IMAGEN": ""
+    "IMAGEN": "CODO-DE-75MMX90-PVC-A-N.jpg"
   },
   {
     "CODIGO": "0207-027",
     "DESCRIPCION": "CODO PVC 1/2X45",
     "EXISTENCIA": 80,
     "CATEGORIA": "Tubería",
-    "IMAGEN": ""
+    "IMAGEN": "CODO-PVC-1-2X45.jpg"
   },
   {
     "CODIGO": "0204-052",
     "DESCRIPCION": "CURVA 3/4\" PVC ELECT BLANCO",
     "EXISTENCIA": 50,
     "CATEGORIA": "Materiales eléctricos",
-    "IMAGEN": ""
+    "IMAGEN": "CURVA-3-4-PVC-ELECT-BLANCO.jpg"
   },
   {
     "CODIGO": "0229-027",
     "DESCRIPCION": "DISCO D/CORTE   4-1/2\" CARBORUNDUM",
     "EXISTENCIA": 247,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "DISCO-D-CORTE---4-1-2-CARBORUNDUM.jpg"
   },
   {
     "CODIGO": "0229-028",
     "DESCRIPCION": "DISCO D/CORTE  7\" CARBORUNDUM",
     "EXISTENCIA": 7,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "DISCO-D-CORTE--7-CARBORUNDUM.jpg"
   },
   {
     "CODIGO": "0229-051",
@@ -550,14 +550,14 @@ var productos = [
     "DESCRIPCION": "DISCO D/CORTE  7\" ULTRA FINO  GLADIADOR",
     "EXISTENCIA": 108,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "DISCO-D-CORTE--7-ULTRA-FINO--GLADIADOR.jpg"
   },
   {
     "CODIGO": "0229-013",
     "DESCRIPCION": "DISCO D/CORTE  ULTRA FINO 4-1/2\" CARBORUNDUM",
     "EXISTENCIA": 411,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "DISCO-D-CORTE--ULTRA-FINO-4-1-2-CARBORUNDUM.jpg"
   },
   {
     "CODIGO": "0229-034",
@@ -571,35 +571,35 @@ var productos = [
     "DESCRIPCION": "DISCO D/ESMERIL   4-1/2\" CARBORUNDUM",
     "EXISTENCIA": 154,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "DISCO-D-ESMERIL---4-1-2-CARBORUNDUM.jpg"
   },
   {
     "CODIGO": "0229-032",
     "DESCRIPCION": "DISCO D/ESMERIL 7\"  BOSCH",
     "EXISTENCIA": 1,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "DISCO-D-ESMERIL-7--BOSCH.jpg"
   },
   {
     "CODIGO": "0229-030",
     "DESCRIPCION": "DISCO D/ESMERIL 7\" DEWALT",
     "EXISTENCIA": 4,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "DISCO-D-ESMERIL-7-DEWALT.jpg"
   },
   {
     "CODIGO": "0229-052",
     "DESCRIPCION": "DISCO D/TRONZADORA 14\" KOBATEX",
     "EXISTENCIA": 175,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "DISCO-D-TRONZADORA-14-KOBATEX.jpg"
   },
   {
     "CODIGO": "0229-012",
     "DESCRIPCION": "DISCO D/TRONZADORA 14\" RAZOR TOOLS",
     "EXISTENCIA": 8,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "DISCO-D-TRONZADORA-14-RAZOR-TOOLS.jpg"
   },
   {
     "CODIGO": "0229-008",
@@ -613,7 +613,7 @@ var productos = [
     "DESCRIPCION": "ELECTRODOS 6013 3/32 TEMO WELDING (KG)",
     "EXISTENCIA": 91,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "ELECTRODOS-6013-1-8-KOBATEX-(KG).jpg"
   },
   {
     "CODIGO": "0229-024",
@@ -641,28 +641,28 @@ var productos = [
     "DESCRIPCION": "ESMALTE BRILL AZUL REAL COLLET  1/4 GL",
     "EXISTENCIA": 1,
     "CATEGORIA": "Pinturas",
-    "IMAGEN": ""
+    "IMAGEN": "ESMALTE-BRILL-AZUL-REAL-COLLET--1-4-GL.jpg"
   },
   {
     "CODIGO": "0203-049",
     "DESCRIPCION": "ESMALTE BRILLANTE  NEGRO SEVENS COLORS 1/4 GL",
     "EXISTENCIA": 1,
     "CATEGORIA": "Pinturas",
-    "IMAGEN": ""
+    "IMAGEN": "ESMALTE-BRILLANTE--NEGRO-SEVENS-COLORS-1-4-GL.jpg"
   },
   {
     "CODIGO": "0203-046",
     "DESCRIPCION": "ESMALTE BRILLANTE AZUL PARAISO COLLET 1/4 GL",
     "EXISTENCIA": 1,
     "CATEGORIA": "Pinturas",
-    "IMAGEN": ""
+    "IMAGEN": "ESMALTE-BRILLANTE-AZUL-PARAISO-COLLET-1-4-GL.jpg"
   },
   {
     "CODIGO": "0129-008",
     "DESCRIPCION": "FLANCHES HN  25X32X10MM",
     "EXISTENCIA": 1,
     "CATEGORIA": "Flanches",
-    "IMAGEN": ""
+    "IMAGEN": "FLANCHES-HN--25X32X10MM.jpg"
   },
   {
     "CODIGO": "0129-009",
@@ -676,14 +676,14 @@ var productos = [
     "DESCRIPCION": "FONDO ANTICORROSIVO  BLANCO  REINCO",
     "EXISTENCIA": 37,
     "CATEGORIA": "Pinturas",
-    "IMAGEN": ""
+    "IMAGEN": "FONDO-ANTICORROSIVO--BLANCO--REINCO.jpg"
   },
   {
     "CODIGO": "0203-017",
     "DESCRIPCION": "FONDO ANTICORROSIVO  NEGRO  GLADIADOR",
     "EXISTENCIA": 1,
     "CATEGORIA": "Pinturas",
-    "IMAGEN": ""
+    "IMAGEN": "FONDO-ANTICORROSIVO--NEGRO--GLADIADOR.jpg"
   },
   {
     "CODIGO": "0203-048",
@@ -697,14 +697,14 @@ var productos = [
     "DESCRIPCION": "FONDO ANTICORROSIVO  ROJO COLLET GL",
     "EXISTENCIA": 2,
     "CATEGORIA": "Pinturas",
-    "IMAGEN": ""
+    "IMAGEN": "FONDO-ANTICORROSIVO--ROJO-COLLET-GL.jpg"
   },
   {
     "CODIGO": "0203-044",
     "DESCRIPCION": "FONDO ANTICORROSIVO GRIS  COLVENTS",
     "EXISTENCIA": 15,
     "CATEGORIA": "Pinturas",
-    "IMAGEN": ""
+    "IMAGEN": "FONDO-ANTICORROSIVO-GRIS--COLVENTS.jpg"
   },
   {
     "CODIGO": "0203-013",
@@ -718,14 +718,14 @@ var productos = [
     "DESCRIPCION": "GARRUCHA S-34 DE 4 RUEDAS  SENCILLA (RIEL 2\")",
     "EXISTENCIA": 17,
     "CATEGORIA": "Materiales de Construcción",
-    "IMAGEN": ""
+    "IMAGEN": "GARRUCHA-S-34-DE-4-RUEDAS--SENCILLA-(RIEL-2).jpg"
   },
   {
     "CODIGO": "0207-092",
     "DESCRIPCION": "GARRUCHA S-35 2 RUEDAS SENCILLA (RIEL 2\")",
     "EXISTENCIA": 14,
     "CATEGORIA": "Materiales de Construcción",
-    "IMAGEN": ""
+    "IMAGEN": "GARRUCHA-S-35-2-RUEDAS-SENCILLA-(RIEL-2).jpg"
   },
   {
     "CODIGO": "0207-093",
