@@ -85,9 +85,10 @@ function llenar_productos(productos) {
   numero_productos.innerText = productos.length + " articulos"
 
   productos.forEach((item) => {
+    var _imagen = item.IMAGEN == "" ?"imagen-producto.jpg":item.IMAGEN
     template.querySelector("span").textContent = item.CODIGO;
     template.querySelector("#product_name").textContent = item.DESCRIPCION;
-    template.querySelector("#imagen-producto").src = item.IMAGEN;
+    template.querySelector("#imagen-producto").src = "images/productos/"+_imagen;
     const clone = template.cloneNode(true);
     fragment.appendChild(clone);
   });
@@ -119,3 +120,6 @@ var a = ['a', 1, 'a', 2, '1'];
 var unique = a.filter(onlyUnique);
 
 //console.log(unique); // ['a', 1, 2, '1']
+
+
+
