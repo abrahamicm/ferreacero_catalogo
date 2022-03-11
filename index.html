@@ -31,6 +31,9 @@
   <!-- responsive style -->
   <link href="css/responsive.css" rel="stylesheet" />
 
+  <link href="css/rootmenu.css" rel="stylesheet" />
+  <link href="css/select2.min.css" rel="stylesheet" />
+
 
   <!-- sibreescribir css -->
   <style>
@@ -48,7 +51,8 @@
 
     }
 
-    .search_form .form-control,.search_form {
+    .search_form .form-control,
+    .search_form {
 
       width: 100%;
     }
@@ -93,12 +97,18 @@
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg custom_nav-container justify-content-center">
             <div class="row j">
-              <div class="col-md-4">
+              <div class="col-md-3">
                 <a class="navbar-brand" href="index.html">
                   <img src="images/FERREACERO-5-LOGO.png" class="img-fluid">
                 </a>
               </div>
-              <div class="align-content-center col-md-8 d-flex justify-content-center">
+              <div class="align-items-center col-md-4 d-flex justify-content-center">
+              <select name="" id="select_categorias">
+               
+              </select>
+
+              </div>
+              <div class="align-content-center col-md-5 d-flex justify-content-center">
                 <from class="search_form align-items-end search_form mb-3">
                   <input type="text" class="form-control" placeholder="Buscar" id="buscar">
                   <button class="" type="submit">
@@ -113,8 +123,39 @@
           </nav>
         </div>
       </div>
-    </header>
+      <div>
 
+      </div>
+    </header>
+    <!-- <nav class="rootmenu" data-action="navigation">
+      <ul id="rw-menutop" class="mobile-sub rootmenu-list">
+        <li class="nav-1 category-item"><span class="rootmenu-click"><i class="rootmenu-arrow"></i></span><span
+            class="rootmenu-click"><i class="rootmenu-arrow"></i></span><span class="rootmenu-click"><i
+              class="rootmenu-arrow"></i></span><span class="rootmenu-click"><i class="rootmenu-arrow"></i></span>
+          <a class="has-sub-cat active" href="https://ve.epaenlinea.com/productos.html">
+            Productos </a>
+          <ul class="rootmenu-submenu ">
+            <li class="nav-1-1 category-item"><span class="rootmenu-click"><i class="rootmenu-arrow"></i></span><span
+                class="rootmenu-click"><i class="rootmenu-arrow"></i></span><span class="rootmenu-click"><i
+                  class="rootmenu-arrow"></i></span><span class="rootmenu-click"><i class="rootmenu-arrow"></i></span><a
+                href="">Acabados<span class="cat-arrow"></span></a>
+            </li>
+          </ul>
+        </li>
+
+
+
+
+
+
+
+
+
+
+
+
+      </ul>
+    </nav> -->
 
     <!-- product section -->
 
@@ -130,7 +171,7 @@
 
 
         </div>
-    
+
       </div>
     </section>
 
@@ -138,9 +179,14 @@
 
 
     <!-- jQery -->
-    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="./jquery.js"></script>
+    <script src="js/select2.min.js"></script>
     <!-- bootstrap js -->
 
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+
+    <script src="js/require.js"></script>
+    <script src="js/rootmenu.min.js"></script>
     <!-- custom js -->
     <script src="js/custom.js"></script>
     <!-- productos js -->
