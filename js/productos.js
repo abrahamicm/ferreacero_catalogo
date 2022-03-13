@@ -11,14 +11,14 @@ var productos =[
     "DESCRIPCION": "ALAMBRE GALV CAL 17,5 (BOBINA 25KG)",
     "EXISTENCIA": 2,
     "CATEGORIA": "Materiales de Construcción",
-    "IMAGEN": ""
+    "IMAGEN": "alambre galvanizado.jpg"
   },
   {
     "CODIGO": "0102-002",
     "DESCRIPCION": "ALAMBRE GALV CAL 17,5 (KG)",
     "EXISTENCIA": 372,
     "CATEGORIA": "Materiales de Construcción",
-    "IMAGEN": ""
+    "IMAGEN": "alambre galvanizado.jpg"
   },
   {
     "CODIGO": "0102-003",
@@ -39,84 +39,84 @@ var productos =[
     "DESCRIPCION": "ANGULOS 25X25X2,2MMX6 MTS",
     "EXISTENCIA": 77,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0104-013",
     "DESCRIPCION": "ANGULOS 25X25X2,5MMX6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0104-023",
     "DESCRIPCION": "ANGULOS 25X25X4MMX6 MTS",
     "EXISTENCIA": 27,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0103-010",
     "DESCRIPCION": "ANGULOS 30X30X3MM 6 MTS",
     "EXISTENCIA": 113,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0103-014",
     "DESCRIPCION": "ANGULOS 35X35X6MM 6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0103-022",
     "DESCRIPCION": "ANGULOS 50X50X4MM 6 MTS",
     "EXISTENCIA": 75,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0103-024",
     "DESCRIPCION": "ANGULOS 50X50X5MM 6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0104-018",
     "DESCRIPCION": "ANGULOS 65X65X5MM 6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0103-033",
     "DESCRIPCION": "ANGULOS 65X65X7MM 12 MTS",
     "EXISTENCIA": 6,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0103-034",
     "DESCRIPCION": "ANGULOS 65X65X7MM 6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0103-045",
     "DESCRIPCION": "ANGULOS 90X90X7MM 12 MTS",
     "EXISTENCIA": 56,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0103-046",
     "DESCRIPCION": "ANGULOS 90X90X7MM 6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Ángulos",
-    "IMAGEN": ""
+    "IMAGEN": "Ángulos de alas iguales 900x900.jpg"
   },
   {
     "CODIGO": "0204-048",
@@ -130,7 +130,7 @@ var productos =[
     "DESCRIPCION": "BARRA CUAD 12MM 1/2\" 6 MTS",
     "EXISTENCIA": 1011,
     "CATEGORIA": "Barras",
-    "IMAGEN": "Barras.jpg"
+    "IMAGEN": ""
   },
   {
     "CODIGO": "0104-004",
@@ -144,63 +144,63 @@ var productos =[
     "DESCRIPCION": "BARRA CUAD ACAN 12MM 1/2\" 6 MTS",
     "EXISTENCIA": 61,
     "CATEGORIA": "Barras",
-    "IMAGEN": ""
+    "IMAGEN": "Barras.jpg"
   },
   {
     "CODIGO": "0105-002",
     "DESCRIPCION": "BARRA RED 10MM 3/8\" 6 MTS",
     "EXISTENCIA": 5,
     "CATEGORIA": "Barras",
-    "IMAGEN": ""
+    "IMAGEN": "Barras.jpg"
   },
   {
     "CODIGO": "0105-004",
     "DESCRIPCION": "BARRA RED 12MM 1/2\" 6 MTS",
     "EXISTENCIA": 801,
     "CATEGORIA": "Barras",
-    "IMAGEN": ""
+    "IMAGEN": "Barras.jpg"
   },
   {
     "CODIGO": "0105-005",
     "DESCRIPCION": "BARRA RED 16MM 5/8\" 12 MTS",
     "EXISTENCIA": 860,
     "CATEGORIA": "Barras",
-    "IMAGEN": ""
+    "IMAGEN": "Barras.jpg"
   },
   {
     "CODIGO": "0105-006",
     "DESCRIPCION": "BARRA RED 16MM 5/8\" 6 MTS",
     "EXISTENCIA": 916,
     "CATEGORIA": "Barras",
-    "IMAGEN": ""
+    "IMAGEN": "Barras.jpg"
   },
   {
     "CODIGO": "0105-008",
     "DESCRIPCION": "BARRA RED 20MM 3/4\" 6 MTS",
     "EXISTENCIA": 243,
     "CATEGORIA": "Barras",
-    "IMAGEN": ""
+    "IMAGEN": "Barras.jpg"
   },
   {
     "CODIGO": "0102-006",
     "DESCRIPCION": "BARRA RED 25MM 1\" 5MTS",
     "EXISTENCIA": 7,
     "CATEGORIA": "Barras",
-    "IMAGEN": ""
+    "IMAGEN": "Barras.jpg"
   },
   {
     "CODIGO": "0105-010",
     "DESCRIPCION": "BARRA RED 25MM 1\" 6 MTS",
     "EXISTENCIA": 153,
     "CATEGORIA": "Barras",
-    "IMAGEN": ""
+    "IMAGEN": "Barras.jpg"
   },
   {
     "CODIGO": "0102-005",
     "DESCRIPCION": "BARRA RED 25MM 1\"X 4 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Barras",
-    "IMAGEN": ""
+    "IMAGEN": "Barras.jpg"
   },
   {
     "CODIGO": "0202-002",
@@ -319,7 +319,7 @@ var productos =[
     "DESCRIPCION": "CAJA DE GANCHO 2X1-1/2 CORTO-LIT",
     "EXISTENCIA": 10,
     "CATEGORIA": "Techos y cubiertas",
-    "IMAGEN": "CAJA-DE-GANCHO-2X1-CORTO-LIT.jpg"
+    "IMAGEN": ""
   },
   {
     "CODIGO": "0201-007",
@@ -564,56 +564,56 @@ var productos =[
     "DESCRIPCION": "DISCO D/CORTE ULTRA FINO  4-1/2\" GLADIADOR",
     "EXISTENCIA": 2,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "DISCO-D-ESMERIL---4-1-2-CARBORUNDUM.jpg"
   },
   {
     "CODIGO": "0229-014",
     "DESCRIPCION": "DISCO D/ESMERIL   4-1/2\" CARBORUNDUM",
     "EXISTENCIA": 154,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": "DISCO-D-ESMERIL---4-1-2-CARBORUNDUM.jpg"
+    "IMAGEN": "DISCO-D-ESMERIL-7--BOSCH.jpg"
   },
   {
     "CODIGO": "0229-032",
     "DESCRIPCION": "DISCO D/ESMERIL 7\"  BOSCH",
     "EXISTENCIA": 1,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": "DISCO-D-ESMERIL-7--BOSCH.jpg"
+    "IMAGEN": "DISCO-D-ESMERIL-7-DEWALT.jpg"
   },
   {
     "CODIGO": "0229-030",
     "DESCRIPCION": "DISCO D/ESMERIL 7\" DEWALT",
     "EXISTENCIA": 4,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": "DISCO-D-ESMERIL-7-DEWALT.jpg"
+    "IMAGEN": "DISCO-D-TRONZADORA-14-KOBATEX.jpg"
   },
   {
     "CODIGO": "0229-052",
     "DESCRIPCION": "DISCO D/TRONZADORA 14\" KOBATEX",
     "EXISTENCIA": 175,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": "DISCO-D-TRONZADORA-14-KOBATEX.jpg"
+    "IMAGEN": "DISCO-D-TRONZADORA-14-RAZOR-TOOLS.jpg"
   },
   {
     "CODIGO": "0229-012",
     "DESCRIPCION": "DISCO D/TRONZADORA 14\" RAZOR TOOLS",
     "EXISTENCIA": 8,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": "DISCO-D-TRONZADORA-14-RAZOR-TOOLS.jpg"
+    "IMAGEN": "DISCO-DCORTE--7-RAZOR-TOOLS.jpg"
   },
   {
     "CODIGO": "0229-008",
     "DESCRIPCION": "ELECTRODOS 6013 1/8 KOBATEX (KG)",
     "EXISTENCIA": 12,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": ""
+    "IMAGEN": "ELECTRODOS-6013-1-8-KOBATEX-(KG).jpg"
   },
   {
     "CODIGO": "0229-010",
     "DESCRIPCION": "ELECTRODOS 6013 3/32 TEMO WELDING (KG)",
     "EXISTENCIA": 91,
     "CATEGORIA": "Herramientas",
-    "IMAGEN": "ELECTRODOS-6013-1-8-KOBATEX-(KG).jpg"
+    "IMAGEN": ""
   },
   {
     "CODIGO": "0229-024",
@@ -1145,7 +1145,7 @@ var productos =[
     "DESCRIPCION": "PLAFON BLANCA",
     "EXISTENCIA": 253,
     "CATEGORIA": "Lámparas, Plafones",
-    "IMAGEN": "pletinas.jpg"
+    "IMAGEN": ""
   },
   {
     "CODIGO": "0132-009",
@@ -1159,140 +1159,140 @@ var productos =[
     "DESCRIPCION": "PLETINA 1 1/2 X 1/8 X 6MTS SID",
     "EXISTENCIA": 195,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0108-023",
     "DESCRIPCION": "PLETINA 1 1/4 X 1/4 X 6MTS LAM",
     "EXISTENCIA": 11,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-005",
     "DESCRIPCION": "PLETINA 1 1/4 X 1/8 X 6MTS LAM",
     "EXISTENCIA": 220,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-006",
     "DESCRIPCION": "PLETINA 1 1/4 X 3/16 X 6MTS LAM",
     "EXISTENCIA": 97,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-007",
     "DESCRIPCION": "PLETINA 1 X 1/4 X 6MTS SID",
     "EXISTENCIA": 28,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-008",
     "DESCRIPCION": "PLETINA 1 X 1/8 X 6MTS LAM",
     "EXISTENCIA": 109,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0108-015",
     "DESCRIPCION": "PLETINA 1 X 3/16 X 6MTS SID",
     "EXISTENCIA": 342,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-011",
     "DESCRIPCION": "PLETINA 1/2 X 1/8 X 6MTS LAM",
     "EXISTENCIA": 199,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0108-024",
     "DESCRIPCION": "PLETINA 2 X 1/4 X 6 MTS SID",
     "EXISTENCIA": 39,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-016",
     "DESCRIPCION": "PLETINA 2 X 1/4 X 6MTS LAM",
     "EXISTENCIA": 62,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-035",
     "DESCRIPCION": "PLETINA 2 X 1/8 X 6MTS LAM",
     "EXISTENCIA": 56,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-018",
     "DESCRIPCION": "PLETINA 2 X 3/16 X 6MTS LAM",
     "EXISTENCIA": 42,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-036",
     "DESCRIPCION": "PLETINA 2 X 3/16 X 6MTS SID",
     "EXISTENCIA": 199,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-020",
     "DESCRIPCION": "PLETINA 3/4 X 1/8 X 6MTS",
     "EXISTENCIA": 15,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-027",
     "DESCRIPCION": "PLETINA 65 X 12MM X  6MTS SID",
     "EXISTENCIA": 19,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-028",
     "DESCRIPCION": "PLETINA 65 X 6MM X  6MTS SID",
     "EXISTENCIA": 2,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-029",
     "DESCRIPCION": "PLETINA 65 X 9MM X  6MTS SID",
     "EXISTENCIA": 11,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0108-017",
     "DESCRIPCION": "PLETINA 75 X 12MM X  5.54MTS SID",
     "EXISTENCIA": 1,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-030",
     "DESCRIPCION": "PLETINA 75 X 12MM X  6MTS SID",
     "EXISTENCIA": 7,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0115-032",
     "DESCRIPCION": "PLETINA 75 X 9MM X  6MTS SID",
     "EXISTENCIA": 9,
     "CATEGORIA": "Pletinas",
-    "IMAGEN": ""
+    "IMAGEN": "pletinas.jpg"
   },
   {
     "CODIGO": "0205-013",
@@ -2286,7 +2286,7 @@ var productos =[
     "DESCRIPCION": "VIGA CP 250X12MTS",
     "EXISTENCIA": 5,
     "CATEGORIA": "Vigas",
-    "IMAGEN": "Vigas HEA.jpg"
+    "IMAGEN": ""
   },
   {
     "CODIGO": "0125-014",
@@ -2300,56 +2300,56 @@ var productos =[
     "DESCRIPCION": "VIGA HEA 100X12 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEA.jpg"
   },
   {
     "CODIGO": "0124-047",
     "DESCRIPCION": "VIGA HEA 180X5MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEA.jpg"
   },
   {
     "CODIGO": "0121-012",
     "DESCRIPCION": "VIGA HEA 200X6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEA.jpg"
   },
   {
     "CODIGO": "0121-015",
     "DESCRIPCION": "VIGA HEA 240X12MTS",
     "EXISTENCIA": 2,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEA.jpg"
   },
   {
     "CODIGO": "0121-027",
     "DESCRIPCION": "VIGA HEA 340X12MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEA.jpg"
   },
   {
     "CODIGO": "0121-031",
     "DESCRIPCION": "VIGA HEA 360X12MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEA.jpg"
   },
   {
     "CODIGO": "0121-033",
     "DESCRIPCION": "VIGA HEA 400X12MTS",
     "EXISTENCIA": 3,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEA.jpg"
   },
   {
     "CODIGO": "0121-037",
     "DESCRIPCION": "VIGA HEA 500X12MTS",
     "EXISTENCIA": 9,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEA.jpg"
   },
   {
     "CODIGO": "0121-043",
@@ -2363,21 +2363,21 @@ var productos =[
     "DESCRIPCION": "VIGA HEB 100X12MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEB.jpg"
   },
   {
     "CODIGO": "0122-002",
     "DESCRIPCION": "VIGA HEB 100X6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEB.jpg"
   },
   {
     "CODIGO": "0122-007",
     "DESCRIPCION": "VIGA HEB 160X12MTS",
     "EXISTENCIA": 2,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas HEB.jpg"
   },
   {
     "CODIGO": "0123-007",
@@ -2391,56 +2391,56 @@ var productos =[
     "DESCRIPCION": "VIGA IPE 180X12MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas IPE.jpg"
   },
   {
     "CODIGO": "0123-010",
     "DESCRIPCION": "VIGA IPE 180X6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas IPE.jpg"
   },
   {
     "CODIGO": "0123-013",
     "DESCRIPCION": "VIGA IPE 220X12MTS",
     "EXISTENCIA": 3,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas IPE.jpg"
   },
   {
     "CODIGO": "0123-014",
     "DESCRIPCION": "VIGA IPE 220X6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas IPE.jpg"
   },
   {
     "CODIGO": "0123-022",
     "DESCRIPCION": "VIGA IPE 300X6 MTS",
     "EXISTENCIA": 1,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas IPE.jpg"
   },
   {
     "CODIGO": "0123-026",
     "DESCRIPCION": "VIGA IPE 330X6 MTS",
     "EXISTENCIA": 7,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas IPE.jpg"
   },
   {
     "CODIGO": "0123-031",
     "DESCRIPCION": "VIGA IPE 450X12MTS",
     "EXISTENCIA": 2,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas IPE.jpg"
   },
   {
     "CODIGO": "0123-040",
     "DESCRIPCION": "VIGA IPE 80X6 MTS",
     "EXISTENCIA": 97,
     "CATEGORIA": "Vigas",
-    "IMAGEN": ""
+    "IMAGEN": "Vigas IPE.jpg"
   },
   {
     "CODIGO": "0124-001",
