@@ -20,22 +20,15 @@ var allCategories;
 
 var set = new Set()
 
+
 window.addEventListener('DOMContentLoaded', (event) => {
   obtener_productos_desde_excel()
-
-  setTimeout(() => {
-    llenar_productos(productos)
-    llenar_select(productos, "#select_categorias")
-   
-
-
-  }, 500);
-
-
+  
 });
-//$('#select_categorias').select2();
+$('body').on('DOMNodeInserted', 'select', function () {    $(this).select2();})
 $('#select_categorias').on('change', function (e) {
   categoria = e.target.value
+  
   filtrar();
   llenar_productos(productos_filtrados)
   

@@ -13,12 +13,16 @@ function filtrar_por_categoria(arrayActual, index, arrayTotal) {
     return arrayActual.CATEGORIA?.toUpperCase().indexOf(categoria.toLocaleUpperCase()) > -1
 }
 function filtrar() {
+   
     productos_filtrados = productos.filter(filtraProductos);
 
     if (categoria == "Todos") categoria = ""
 
     if (categoria != "")
-        productos_filtrados = productos.filter(filtrar_por_categoria);
+        productos_filtrados = productos.filter(filtrar_por_categoria).filter(filtraProductos);
+        
+    
+
 }
 
 
@@ -82,6 +86,7 @@ function obtener_productos_desde_excel() {
     var oReq = new XMLHttpRequest();
     oReq.open("GET", url, true);
     oReq.responseType = "arraybuffer";
+    
 
 
     oReq.onload = function (e) {
@@ -98,6 +103,19 @@ function obtener_productos_desde_excel() {
         var worksheet = workbook.Sheets[first_sheet_name];
         var arreglo = XLSX.utils.sheet_to_json(worksheet, { raw: true })
          productos  = producto_excel_adaptador(arreglo);
+
+         const event = new Event('build');
+
+         // Listen for the event.
+         document.addEventListener('build', function (e) {
+             console.log(e)
+            llenar_productos(productos)
+            llenar_select(productos, "#select_categorias")
+         }, false);
+         
+         // Dispatch the event.
+         document.dispatchEvent(event);
+        
       
     }
    
