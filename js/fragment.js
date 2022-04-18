@@ -8,7 +8,7 @@
 
  https://csvjson.com/csv2json
 */
-
+require( ['./js/select2.min.js'] )
 
 var categoria = "";
 
@@ -24,15 +24,20 @@ var set = new Set()
 window.addEventListener('DOMContentLoaded', (event) => {
   obtener_productos_desde_excel()
   
-});
-$('body').on('DOMNodeInserted', 'select', function () {    $(this).select2();})
-$('#select_categorias').on('change', function (e) {
-  categoria = e.target.value
+$('body').on('DOMNodeInserted', 'select', function () {
+  $(this).select2();
+  $('#select_categorias').on('select2:select', function (e) {
+    categoria = e.target.value
+    console.log(e)
+    filtrar();
+    llenar_productos(productos_filtrados)
+    
+  });
+})
+ 
   
-  filtrar();
-  llenar_productos(productos_filtrados)
-  
 });
+
 
 buscar.addEventListener('keyup', (event) => {
   const buscar = document.getElementById("buscar");

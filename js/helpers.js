@@ -41,6 +41,7 @@ function llenar_productos(productos) {
         template.querySelector("span").textContent = item.CODIGO;
         template.querySelector("#product_name").textContent = item.DESCRIPCION;
         template.querySelector("#imagen-producto").src = "images/productos/" + _imagen;
+        template.querySelector("#precio").textContent = item.PRECIO ? "$"+item.PRECIO:"" ;
         const clone = template.cloneNode(true);
         fragment.appendChild(clone);
     });
@@ -75,6 +76,7 @@ function producto_excel_adaptador(arreglo = []) {
         "CODIGO": x.__EMPTY,
         "DESCRIPCION": x.__EMPTY_1,
         "EXISTENCIA": x.__EMPTY_2,
+        "PRECIO": x.__EMPTY_2,
         "CATEGORIA": x.__EMPTY_4,
         "IMAGEN": x.__EMPTY_5 || ""
     }))
@@ -108,7 +110,7 @@ function obtener_productos_desde_excel() {
 
          // Listen for the event.
          document.addEventListener('build', function (e) {
-             console.log(e)
+           
             llenar_productos(productos)
             llenar_select(productos, "#select_categorias")
          }, false);
